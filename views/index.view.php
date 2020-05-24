@@ -5,7 +5,14 @@
     <title>Document</title>
   </head>
   <body>
-  <h1>Tasks for the Day</h1>
+  <nav>
+    <ul>
+      <li><a href="/about">About</a></li>
+      <li><a href="/contact">Contact</a></li>
+      <li><a href="/about/culture">Culture</a></li>
+    </ul>
+  </nav>
+    <h1>Tasks for the Day</h1>
     <ul>
       <?php foreach ($tasks as $task) : ?>
         <li>

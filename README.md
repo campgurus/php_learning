@@ -1,0 +1,1 @@
+This repo follows the tutorial series at: https://laracasts.com/series/php-for-beginners
