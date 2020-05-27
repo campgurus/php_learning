@@ -1,6 +1,7 @@
 <?php
 
-$database = require 'core/bootstrap.php';
+require 'vendor/autoload.php';
+require 'core/bootstrap.php';
 
 // die(var_dump($app));
 
